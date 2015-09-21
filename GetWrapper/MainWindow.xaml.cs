@@ -223,7 +223,7 @@ namespace GetWrapper
                 }
             }
 
-            return programList; //test
+            return programList; 
 
         }
 
